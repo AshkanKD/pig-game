@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/im-parsa/pig-game">	
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/im-parsa/pig-game">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ashkankd/pig-game">	
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ashkankd/pig-game">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"> 
 <p>
 
@@ -19,7 +19,7 @@
 شما میتونید این بازی رو با کلیک روی این دکمه تجربه کنید
 
 <p align="center">
-	<a href="https://im-parsa.github.io/pig-game/"><img alt ="deploy shield" src="https://img.shields.io/badge/%F0%9F%99%82%EF%B8%8F-Play!-c73657.svg" height="39px"></a>
+	<a href="https://ashkankd.github.io/pig-game/"><img alt ="deploy shield" src="https://img.shields.io/badge/%F0%9F%99%82%EF%B8%8F-Play!-c73657.svg" height="39px"></a>
 </p>
 
 توجه: این بازی توسط من ننوشته شده و من فقط طراحی و ریمیک این بازی را انجام دادم
@@ -33,7 +33,7 @@
 این بازی نیازی به هیچ پیشنیازی ندارد.
 
 ```sh
-$ git clone git@github.com:im-parsa/pig-game.git
+$ git clone git@github.com:ashkankd/pig-game.git
 ```
 ## :balance_scale: لایسنس
 
